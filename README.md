@@ -8,3 +8,4 @@
  5. [Angular中的表单——响应式驱动表单](https://github.com/cleanersb/Blogs/issues/5)
  6. [Angular编写随着输入不断搜索的组件](https://github.com/cleanersb/Blogs/issues/6)
  7. [毕业一年总结](https://github.com/cleanersb/Blogs/issues/7)
+ 8. [JS中的复制变量和传递参数](https://github.com/cleanersb/Blogs/issues/8)
